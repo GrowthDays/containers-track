@@ -8,7 +8,7 @@
 
 Each participant has its own Ubuntu 22.01 server in order to have a common environment to follow along the process.
 
-So, for the user `john.smit@praxent.com`, this is the command that you should run in order to be able to access the server:
+So, for the user `john.smith@praxent.com`, this is the command that you should run in order to be able to access the server:
 
 ```bash
 $ ssh john@john-smith.growthdays22.live
