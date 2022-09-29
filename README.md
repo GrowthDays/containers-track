@@ -42,6 +42,12 @@ $ ssh john-smith.growthdays22.live
 
 If you're using another filename for your private key, you should set it up accordingly (using the `IdentityFile` config option).
 
+---
+
+http://john-smith.growthdays22.live:9000/
+
+---
+
 #### Let's install docker
 
 1. Update the apt package index and install packages to allow apt to use a repository over HTTPS:
